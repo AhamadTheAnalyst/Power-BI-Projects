@@ -24,23 +24,7 @@ The main goal of this project is to develop a business intelligence dashboard to
 
 ![E-Commerce PowerBI Dashboard](E-Commerce%20PowerBI%20Dashboard.png)
 
-Bar Chart
 
-Donut Chart
-
-Clustered Bar Chart
-
-Line Chart
-
-Area Chart
-
-Pie Chart
-
-Scatter Chart
-
-Map
-
-Slicers
 
 # 📂 Project Structure
 Dashboard File: E-COMMERCE Power BI Project
