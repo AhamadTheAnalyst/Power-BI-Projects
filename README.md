@@ -82,3 +82,8 @@ Maharashtra leads in sales among available states.
 Most profitable sub-category: Printers
 
 Most used payment mode: Cash on Delivery (41%)
+
+👤 Author
+Moh Ahamad
+🔗 LinkedIn
+📧 work.ahamad925@gmail.com
