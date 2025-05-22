@@ -6,10 +6,10 @@
 This project showcases an interactive and visually engaging E-Commerce Sales Dashboard built using Power BI. The dashboard helps track and analyze online sales data, providing actionable insights through multiple charts and slicers.
 
 
-🚀 Project Objective
+# 🚀 Project Objective
 The main goal of this project is to develop a business intelligence dashboard to analyze sales performance, customer behavior, product trends, and payment methods in an e-commerce business setup.
 
-🧠 Project Learnings
+# 🧠 Project Learnings
 
 ✅ Created an interactive dashboard to analyze online sales data.
 
@@ -42,7 +42,7 @@ Map
 
 Slicers
 
-📂 Project Structure
+# 📂 Project Structure
 Dashboard File: E-COMMERCE Power BI Project
 
 Data Tables Used:
@@ -51,39 +51,18 @@ Orders
 
 Details
 
-Key Metrics Displayed:
-
-Total Sales (Sum of Amount)
-
-Total Quantity Sold
-
-Profit
-
-Average Order Value (AOV)
-
-Profit Trends by Month
-
-Sales by State, Customer Name, Category, and Sub-Category
-
-Payment Mode Distribution
-
-🔧 Tools & Technologies
-Power BI
+# 🔧 Tools & Technologies Power BI
 
 DAX (Data Analysis Expressions)
 
 Excel (for data preprocessing)
 
-📈 Key Insights
+# 📈 Key Insights
 Clothing has the highest quantity sold (39%).
 
 Maharashtra leads in sales among available states.
 
 Most profitable sub-category: Printers
 
-Most used payment mode: Cash on Delivery (41%)
+Most used payment mode: Cash on Delivery (41%).
 
-👤 Author
-Moh Ahamad
-🔗 LinkedIn
-📧 work.ahamad925@gmail.com
