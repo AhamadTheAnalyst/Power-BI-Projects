@@ -19,6 +19,9 @@ The main goal of this project is to develop a business intelligence dashboard to
 
 ✅ Used multiple types of custom visualizations:
 
+
+# E-Commerce Dashboard 
+
 ![E-Commerce PowerBI Dashboard](E-Commerce%20PowerBI%20Dashboard.png)
 
 Bar Chart
